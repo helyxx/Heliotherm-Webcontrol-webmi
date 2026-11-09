@@ -1,5 +1,7 @@
 # Heliotherm WebControl (WebMI) – Home Assistant Integration
 
+<img src="custom_components/heliotherm_webmi/brand/logo@2x.png" alt="WebControl AT" width="400">
+
 Liest ueber die **WebControl-App von Heliotherm** die Pumpenwerte aus und stellt diese auch als Handwert zur Verfuegung.
 
 Custom Integration fuer Home Assistant, die ueber die **WebMI-Schnittstelle** des Heliotherm-WebControl-Reglers
