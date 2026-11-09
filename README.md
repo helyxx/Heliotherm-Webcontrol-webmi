@@ -1,5 +1,7 @@
 # Heliotherm WebControl (WebMI) – Home Assistant Integration
 
+Liest ueber die **WebControl-App von Heliotherm** die Pumpenwerte aus und stellt diese auch als Handwert zur Verfuegung.
+
 Custom Integration fuer Home Assistant, die ueber die **WebMI-Schnittstelle** des Heliotherm-WebControl-Reglers
 die Umwaelzpumpen ausliest und im Handbetrieb steuert. Sie ergaenzt die Modbus-Integration
 [ha_heliotherm](https://github.com/helyxx/ha_heliotherm_PV) um Werte, die nur ueber WebControl erreichbar sind.
