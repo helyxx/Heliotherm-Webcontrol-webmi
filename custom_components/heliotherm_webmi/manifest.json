@@ -6,6 +6,7 @@
   "integration_type": "device",
   "iot_class": "local_polling",
   "requirements": [],
-  "codeowners": [],
-  "documentation": "https://example.invalid/heliotherm_webmi"
+  "codeowners": ["@helyxx"],
+  "documentation": "https://github.com/helyxx/heliotherm_webmi",
+  "issue_tracker": "https://github.com/helyxx/heliotherm_webmi/issues"
 }
