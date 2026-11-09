@@ -20,7 +20,7 @@ HKP = Heizkreispumpe, EQ = Quellenpumpe.
 
 ## Installation
 
-**HACS:** *Custom repository* `https://github.com/helyxx/heliotherm_webmi`, Kategorie *Integration*.
+**HACS:** *Custom repository* `https://github.com/helyxx/Heliotherm-Webcontrol-webmi`, Kategorie *Integration*.
 
 **Manuell:** Ordner `custom_components/heliotherm_webmi` nach `config/custom_components/` kopieren und Home Assistant neu starten.
 

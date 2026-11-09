@@ -7,6 +7,6 @@
   "iot_class": "local_polling",
   "requirements": [],
   "codeowners": ["@helyxx"],
-  "documentation": "https://github.com/helyxx/heliotherm_webmi",
-  "issue_tracker": "https://github.com/helyxx/heliotherm_webmi/issues"
+  "documentation": "https://github.com/helyxx/Heliotherm-Webcontrol-webmi",
+  "issue_tracker": "https://github.com/helyxx/Heliotherm-Webcontrol-webmi/issues"
 }
