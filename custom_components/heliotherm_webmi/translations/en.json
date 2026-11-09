@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Heliotherm WebControl",
+        "description": "Enter the IP address of the controller. The service login is built in.",
+        "data": {
+          "host": "IP address",
+          "interval": "Polling interval in seconds"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_auth": "Login to the controller failed"
+    },
+    "abort": { "already_configured": "Already configured" }
+  }
+}

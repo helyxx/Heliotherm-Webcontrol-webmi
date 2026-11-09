@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Heliotherm WebControl",
+        "description": "IP-Adresse des Reglers angeben. Der Service-Login ist fest hinterlegt.",
+        "data": {
+          "host": "IP-Adresse",
+          "interval": "Abfrageintervall in Sekunden"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung fehlgeschlagen",
+      "invalid_auth": "Login am Regler fehlgeschlagen"
+    },
+    "abort": { "already_configured": "Bereits eingerichtet" }
+  }
+}
